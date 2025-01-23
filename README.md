@@ -1,4 +1,11 @@
-## Hi there 👋
+## Call me Alex👋
+
+- 🌱 I started out as a lawyer, and got so into IT law I had to start coding !
+- ⚡ At 42 Paris, I learned C, Shell and Python
+- 🔭 I'm looking for dev internships in Paris, Brussels or Berlin
+- 💬 I speak French, English, German and a dash of Japanese
+- ✨ Fun fact: My first code project was a mod for Crusader Kings 2
+
 
 <!--
 **AlexEsqu/AlexEsqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
